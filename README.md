@@ -33,6 +33,6 @@
  
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardo.defati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%331DA1G2?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardo.defati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%CCEEFF ?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eduardo.defati/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%331cb1f2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
