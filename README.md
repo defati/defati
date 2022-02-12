@@ -46,7 +46,7 @@
   <br/>
 <h2>Conecte-se comigo:</h2>
 <div>
-  <a href="https://www.linkedin.com/in/eduf/" target="_new">
+  <a href="https://www.linkedin.com/in/eduf/">
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
