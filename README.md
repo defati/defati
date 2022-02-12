@@ -8,6 +8,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://youtube.com/c/DevSoutinho)](https://youtube.com/c/DevSoutinho)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/omariosouto)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
+teste
+<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 
 
 <div align="left">
