@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/defati">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=defati&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
+  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api?username=defati&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 
 <h1>Tecnologias que conheço 👌</h1>
@@ -45,12 +45,12 @@
 <h1>Conecte-se comigo:</h1>
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href = "mailto:eduardo.defati@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/instagram-new.png"/>
   </a>
   <a href="https://www.instagram.com/eduardo.defati/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
 </div>
