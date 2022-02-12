@@ -33,29 +33,12 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="" height="30" width="40" src="">
   <img align="center" alt="" height="30" width="40" src="">
   <img align="center" alt="" height="30" width="40" src="">
   <img align="center" alt="" height="30" width="40" src="">
-  <img align="center" alt="" height="30" width="40" src="">
-  <img align="center" alt="" height="30" width="40" src="">
- 
-
-  
-  postman
-  figma
-  git
-  heroku
-  php
-  vuetify
-  bootstrap
-  materialize
-  
-  
-  <h3>estudando</h3>
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-  <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
 </div>
   
 <h2>Conecte-se comigo:</h2>
