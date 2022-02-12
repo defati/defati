@@ -31,10 +31,10 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://instagram.com/eduardo.defati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardo.defati" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="eduardo.defati" height="30" width="40" />
   </a>
     <a href="https://instagram.com/eduardo.defati" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardo.defati" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="eduardo.defati" height="30" width="40" />
   </a>
     <a href="https://instagram.com/eduardo.defati" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardo.defati" height="30" width="40" />
