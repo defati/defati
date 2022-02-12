@@ -1,9 +1,11 @@
 <h2 align="left">Olá 👋, eu sou Eduardo Ferreira</h2>
 
 <p>
-  Hoje trabalho com  ...
-  Estudando ...
-  Gosto de ...
+  Trabalho com desenvolvimento Web desde 2008. Criando sites e sistemas de gestão destes sites.
+  Apaixonado por desenvolvimento Web e Satisfação dos clientes ao utilizarem sistemas que realmente ajudem no seu dia-a-dia.
+  Estudando programação e análise de sistemas.
+  Gosto de música, uma boa conversa e praticar esportes.
+  Tenho habilidades com clientes e experiência em liderança de equipe.
 </p>
 
 <div align="left">
