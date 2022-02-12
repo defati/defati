@@ -5,13 +5,6 @@
 - 🌱 Estudando ...
 - ⚡ Gosto de ...
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://youtube.com/c/DevSoutinho)](https://youtube.com/c/DevSoutinho)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/omariosouto)](https://twitter.com/omariosouto)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/omariosouto)
-teste
-<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-
-
 <div align="left">
   <a href="https://github.com/defati">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=defati&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
@@ -55,7 +48,13 @@ teste
 ##
  
 <div>
-  <a href="https://www.linkedin.com/in/eduf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:eduardo.defati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%7a7a7a?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eduardo.defati/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%331cb1f2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduf/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+  </a> 
+  <a href = "mailto:eduardo.defati@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
+  <a href="https://www.instagram.com/eduardo.defati/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
+  </a>
 </div>
