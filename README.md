@@ -50,9 +50,9 @@
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/32/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
   <a href="https://www.instagram.com/eduardo.defati/" target="_blank">
-    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
+    <img src="https://img.icons8.com/fluency/32/000000/instagram-new.png"/>
   </a>
 </div>
