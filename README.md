@@ -2,7 +2,7 @@
 
 <p>
   Trabalho com desenvolvimento Web desde 2008. Criando sites e sistemas de gestão destes sites.<br/>
-  Apaixonado por desenvolvimento Web e Satisfação dos clientes ao utilizarem sistemas que realmente ajudem no seu dia-a-dia.
+  Apaixonado por desenvolvimento Web e Satisfação dos clientes ao utilizarem sistemas que realmente ajudem no seu dia-a-dia.<br/>
   Estudo programação e análise de sistemas (Ensino Superior).
   Tenho habilidades com clientes e experiência em liderança de equipe.
 </p>
