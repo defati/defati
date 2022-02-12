@@ -51,6 +51,6 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
   <a href="https://www.instagram.com/eduardo.defati/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
   </a>
 </div>
