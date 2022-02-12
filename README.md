@@ -26,14 +26,14 @@
   <img align="center" alt="Defati-Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Defati-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div>
-  
+  <br/>
 <h3>Back-End 👍</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Defati-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Defati-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Defati-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
-  
+  <br/>
 <h3>Outras⚡</h3>
 <div style="display: inline_block">
   <img align="center" alt="Defati-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -42,7 +42,8 @@
   <img align="center" alt="Defati-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Defati-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>  
-  
+  <br/>
+  <br/>
 <h2>Conecte-se comigo:</h2>
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank">
