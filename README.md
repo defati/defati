@@ -1,5 +1,4 @@
 <h1 align="left">Olá 👋, eu sou Eduardo Ferreira</h1>
-##
 
 - 🔭 Hoje trabalho com  ...
 - 🌱 Estudando ...
@@ -11,8 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 
-### Tecnologias que conheço 👌
-##
+<h1>Tecnologias que conheço 👌</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Defati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Defati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -44,8 +42,7 @@
   google cloud
 </div>
   
-#Conecte-se comigo:
-#
+<h1>Conecte-se comigo:</h1>
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
