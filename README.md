@@ -1,8 +1,10 @@
-<h3 align="left">Olá 👋, eu sou Eduardo Ferreira</h3>
+<h2 align="left">Olá 👋, eu sou Eduardo Ferreira</h2>
 
-- 🔭 Hoje trabalho com  ...
-- 🌱 Estudando ...
-- ⚡ Gosto de ...
+<p>
+  Hoje trabalho com  ...
+  Estudando ...
+  Gosto de ...
+</p>
 
 <div align="left">
   <a href="https://github.com/defati">
@@ -10,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 
-<h3>Tecnologias que conheço 👌</h3>
+<h2>Tecnologias que conheço 👌</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Defati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Defati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,6 +24,17 @@
   <img align="center" alt="Defati-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Defati-PostGresSql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Defati-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Defati-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   
@@ -42,7 +55,7 @@
   google cloud
 </div>
   
-<h3>Conecte-se comigo:</h3>
+<h2>Conecte-se comigo:</h2>
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
