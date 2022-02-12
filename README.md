@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/defati">
-  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api?username=defati&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=defati&show_icons=true&theme=cobalt2&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=cobalt2"/>
 </div>
 
 <h1>Tecnologias que conheço 👌</h1>
