@@ -35,10 +35,6 @@
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="" height="30" width="40" src="">
-  <img align="center" alt="" height="30" width="40" src="">
-  <img align="center" alt="" height="30" width="40" src="">
-  <img align="center" alt="" height="30" width="40" src="">
 </div>
   
 <h2>Conecte-se comigo:</h2>
