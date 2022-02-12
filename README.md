@@ -45,8 +45,8 @@
   google cloud
 </div>
   
-<h3 align="left">Conecte-se comigo:</h3>
-<hr/>
+#Conecte-se comigo:
+##
  
 <div>
   <a href="https://www.linkedin.com/in/eduf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%231DA1F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
