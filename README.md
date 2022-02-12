@@ -3,10 +3,11 @@
 <p>
   Trabalho com desenvolvimento Web desde 2008. Criando sites e sistemas de gestão destes sites.
   Apaixonado por desenvolvimento Web e Satisfação dos clientes ao utilizarem sistemas que realmente ajudem no seu dia-a-dia.
-  Estudando programação e análise de sistemas.
-  Gosto de música, uma boa conversa e praticar esportes.
+  Estudo programação e análise de sistemas (Ensino Superior).
   Tenho habilidades com clientes e experiência em liderança de equipe.
 </p>
+
+<p>Ah! Gosto de música, uma boa conversa e praticar esportes.</p>
 
 <div align="left">
   <a href="https://github.com/defati">
