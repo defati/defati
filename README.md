@@ -7,7 +7,7 @@
   Tenho habilidades com clientes e experiência em liderança de equipe.
 </h3>
 
-<p>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</p>
+<h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>
 
 <div align="left">
   <a href="https://github.com/defati">
