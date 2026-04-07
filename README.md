@@ -1,7 +1,7 @@
 <!-- TÍTULO -->
 <h1 align="left">Olá, sou Eduardo Ferreira</h1>
 
-<h3 align="left"> Software Engineer | React | Typescript | Java Spring Boot</h3>
+<h3 align="left"> ⚡ Software Engineer | React | Typescript | Java Spring Boot</h3>
 
 
 
@@ -28,10 +28,10 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- FRONT -->
 <div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:30px;">
   <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-    ⚡ Front-End
+  Front-End
   </span>
 
-  <div style="margin-top:30px;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="margin:0 4px;"/>
@@ -51,10 +51,10 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- BACK -->
 <div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
   <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-    ⚡ Back-End
+  Back-End
   </span>
 
-  <div style="margin-top:30px;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
@@ -64,10 +64,10 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- OUTRAS -->
 <div style="display:flex; align-items:center; flex-wrap:wrap;">
   <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-    ⚡ Outras
+  Outras
   </span>
 
-  <div style="margin-top:30px;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin:0 4px;"/>
