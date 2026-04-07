@@ -54,7 +54,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     ⚡ Back-End
   </span>
 
-  <div>
+  <div style="margin-top:10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
@@ -76,7 +76,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
----
+
 
 <!-- CONTATO -->
 <h2> Conecte-se comigo</h2>
