@@ -1,12 +1,7 @@
 <!-- TÍTULO -->
-<h1 align="center">👋 Olá, eu sou Eduardo Ferreira</h1>
+<h1 align="center">Olá, sou Eduardo Ferreira</h1>
 
-<h3 align="center">💻 Software Engineer | React & Java Specialist</h3>
-
-<!-- ANIMAÇÃO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=24&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+desde+2008;Especialista+em+React+e+Java;Criando+sistemas+escaláveis+e+eficientes" />
-</p>
+<h3 align="center"> Software Engineer | React & Java Specialist</h3>
 
 ---
 
@@ -18,13 +13,13 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 </p>
 
 <p style="font-size:18px; line-height:1.6;">
- Formado em Análise e Desenvolvimento de Sistemas <br/>
- +5 anos com <strong>React</strong> e <strong>Java (Spring Boot)</strong> <br/>
- Foco em arquitetura limpa, escalabilidade e boas práticas
+ - Formado em Análise e Desenvolvimento de Sistemas <br/>
+ - +5 anos com <strong>React</strong> e <strong>Java (Spring Boot)</strong> <br/>
+ - Foco em arquitetura limpa, escalabilidade e boas práticas
 </p>
 
 <p style="font-size:18px; line-height:1.6;">
-Tenho forte habilidade em comunicação, contribuindo tanto na execução quanto na tomada de decisões.
+- Tenho forte habilidade em comunicação, contribuindo tanto na execução quanto na tomada de decisões.
 </p>
 
 ---
