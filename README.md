@@ -27,9 +27,9 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 
 <!-- FRONT -->
 <div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:20px;">
-  <span style="font-size:135%; font-weight:600; line-height:1; min-width:110px;">
+  <h1 style="font-size:135%; font-weight:600; line-height:1; min-width:110px;">
     Front-End
-  </span>
+  </h1>
 
   <div style="margin-left:16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin:0 4px;"/>
