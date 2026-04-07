@@ -26,10 +26,10 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <h2> Tecnologias</h2>
 
 <p style="display:flex; align-items:center; flex-wrap:wrap; font-size:115%; gap:8px;">
-  <span style="display:flex; align-items:center; margin-right:8px;">
+  <span style="display:flex; align-items:center; margin-right:8px; font-size:135%;">
     ⚡ Front-End
   </span>
-
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22"/>
