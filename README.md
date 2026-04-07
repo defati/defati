@@ -25,7 +25,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- TECNOLOGIAS -->
 <h2> Tecnologias</h2>
 
-<div style="display:flex; align-items:center; flex-wrap:wrap;">
+<div style="display:flex; align-items:center;">
   <span style="margin-right:8px; font-size:135%;">
     ⚡ Front-End
   </span>
