@@ -13,7 +13,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 <h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>
 
 
-<h2>Tecnologias que conheço ✔</h2>
+<h2>Tecnologias ✔</h2>
   
 <h3>Front-End 👍</h3>  
 <div style="display: inline_block"><br>
@@ -25,6 +25,9 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
   <img align="center" alt="Defati-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Defati-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Defati-Npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
   <img align="center" alt="Defati-Material-UI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
   <img align="center" alt="Defati-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
 </div>
@@ -48,7 +51,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
   <br/>
 <h2>Conecte-se comigo:</h2>
 <div>
-  <a href="https://www.linkedin.com/in/eduf/" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank">
     <img src="https://img.icons8.com/fluency/32/000000/linkedin.png"/>
   </a> 
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
