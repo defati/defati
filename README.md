@@ -56,6 +56,6 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
     <img align="center" alt="Defati-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a> 
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
+    <img align="center" alt="Defati-Gmail" height="30" width="40" src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
 </div>
