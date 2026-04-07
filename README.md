@@ -11,26 +11,26 @@
 ---
 
 <!-- SOBRE -->
-<h2>🚀 Sobre mim</h2>
+<h2> Sobre mim</h2>
 
 <p style="font-size:18px; line-height:1.6;">
 Sou desenvolvedor Web com experiência desde 2008, atuando na criação de sistemas de gestão e aplicações modernas com foco em performance, usabilidade e impacto real no negócio.
 </p>
 
 <p style="font-size:18px; line-height:1.6;">
-🎓 Formado em Análise e Desenvolvimento de Sistemas <br/>
-💻 +5 anos com <strong>React</strong> e <strong>Java (Spring Boot)</strong> <br/>
-🚀 Foco em arquitetura limpa, escalabilidade e boas práticas
+ Formado em Análise e Desenvolvimento de Sistemas <br/>
+ +5 anos com <strong>React</strong> e <strong>Java (Spring Boot)</strong> <br/>
+ Foco em arquitetura limpa, escalabilidade e boas práticas
 </p>
 
 <p style="font-size:18px; line-height:1.6;">
-Tenho forte habilidade em comunicação, levantamento de requisitos e liderança técnica, contribuindo tanto na execução quanto na tomada de decisões.
+Tenho forte habilidade em comunicação, contribuindo tanto na execução quanto na tomada de decisões.
 </p>
 
 ---
 
 <!-- TECNOLOGIAS -->
-<h2>🛠️ Tecnologias</h2>
+<h2> Tecnologias</h2>
 
 <h3>⚡ Front-End</h3>
 <p>
@@ -43,13 +43,13 @@ Tenho forte habilidade em comunicação, levantamento de requisitos e liderança
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40"/>
 </p>
 
-<h3>⚙️ Back-End</h3>
+<h3>⚡ Back-End</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
 </p>
 
-<h3>🛠️ Outras</h3>
+<h3>⚡ Outras</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -59,25 +59,8 @@ Tenho forte habilidade em comunicação, levantamento de requisitos e liderança
 
 ---
 
-<!-- STATS -->
-<h2>📊 Estatísticas</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-<!-- STREAK -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight"/>
-</p>
-
----
-
 <!-- CONTATO -->
-<h2>🌐 Conecte-se comigo</h2>
+<h2> Conecte-se comigo</h2>
 
 <div style="display: flex; gap: 10px; justify-content: center;">
 
