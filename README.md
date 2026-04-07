@@ -22,6 +22,9 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 - Tenho forte habilidade em comunicação, contribuindo tanto na execução quanto na tomada de decisões.
 </p>
 
+<H3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/V4vXB89OPHw?si=jI4cmYKSvMLuPQsA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</H3>
 <!-- TECNOLOGIAS -->
 <h2> Tecnologias</h2>
 
