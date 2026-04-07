@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋, eu sou Eduardo Ferreira</h2>
+<h2 align="left">Olá, sou Eduardo Ferreira</h2>
 
 <h3>
  Sou desenvolvedor Web com experiência desde 2008, atuando na criação de sites e sistemas de gestão focados em performance, usabilidade e resultados reais para o negócio.
