@@ -66,21 +66,10 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
     font-weight: bold;
   ">
     <img src="https://cdn.simpleicons.org/gmail/white" width="20"/>
-    GMAIL
   </a>
 
-  <a href="https://linkedin.com/in/seu-user" target="_blank" style="
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: #0A66C2;
-    color: white;
-    padding: 10px 16px;
-    text-decoration: none;
-    font-weight: bold;
-  ">
-    <img src="https://cdn.simpleicons.org/linkedin/white" width="20"/>
-    LINKEDIN
+  <a href="https://linkedin.com/in/seu-user" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/white"/>
   </a>
 
 </div>
