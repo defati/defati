@@ -26,12 +26,12 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <h2> Tecnologias</h2>
 
 <!-- FRONT -->
-<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:30px;">
-  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-  Front-End
+<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:20px;">
+  <span style="font-size:135%; font-weight:600; line-height:1; min-width:110px;">
+    Front-End
   </span>
 
-  <div>
+  <div style="margin-left:16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="margin:0 4px;"/>
@@ -47,27 +47,27 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
-<br>
+
 <!-- BACK -->
-<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
-  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-  Back-End
+<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:20px;">
+  <span style="font-size:135%; font-weight:600; line-height:1; min-width:110px;">
+    Back-End
   </span>
 
-  <div>
+  <div style="margin-left:16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
-<br>
+
 <!-- OUTRAS -->
 <div style="display:flex; align-items:center; flex-wrap:wrap;">
-  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
-  Outras
+  <span style="font-size:135%; font-weight:600; line-height:1; min-width:110px;">
+    Outras
   </span>
 
-  <div>
+  <div style="margin-left:16px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin:0 4px;"/>
@@ -76,7 +76,6 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
-
 
 <!-- CONTATO -->
 <h2> Conecte-se comigo</h2>
