@@ -47,7 +47,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
-
+<br>
 <!-- BACK -->
 <div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
   <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
@@ -60,7 +60,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
-
+<br>
 <!-- OUTRAS -->
 <div style="display:flex; align-items:center; flex-wrap:wrap;">
   <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
