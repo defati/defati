@@ -1,12 +1,12 @@
 <h2 align="left">Olá, sou Eduardo Ferreira</h2>
 
 <h3>
- Sou desenvolvedor Web com experiência desde 2008, atuando na criação de sites e sistemas de gestão focados em performance, usabilidade e resultados reais para o negócio.
-<br>
+Sou desenvolvedor Web com experiência desde 2008, atuando na criação de sites e sistemas de gestão focados em performance, usabilidade e resultados reais para o negócio.
+
 Sou formado em Análise e Desenvolvimento de Sistemas e possuo mais de 5 anos de experiência prática com tecnologias modernas, especialmente React no front-end e Java no back-end, desenvolvendo aplicações robustas e escaláveis.
-<br>
+
 Tenho grande paixão por desenvolvimento de software e pela entrega de soluções que realmente fazem diferença no dia a dia dos usuários, sempre buscando qualidade, organização e melhoria contínua.
-<br>
+
 Possuo facilidade no relacionamento com clientes, entendimento de requisitos e experiência em liderança de equipe, contribuindo tanto na execução quanto na tomada de decisões.
 </h3>
 
