@@ -25,25 +25,26 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- TECNOLOGIAS -->
 <h2> Tecnologias</h2>
 
-<div style="display:flex; align-items:center; wrap: nowrap;">
+<div style="display:flex; align-items:center; flex-wrap:nowrap;">
   <span style="margin-right:8px; font-size:135%;">
     ⚡ Front-End
   </span>
- <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="22" style="vertical-align:middle;"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="vertical-align:middle;"/>
- </p>
+
+  <p style="margin-top:5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="22" style="vertical-align:middle;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="vertical-align:middle;"/>
+  </p>
 </div>
 
 <p style="display:flex; align-items:center; flex-wrap:wrap; font-size:115%; gap:8px;">
