@@ -54,25 +54,6 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
   <br/><br/>
 <h2>Conecte-se comigo:</h2>
 <div style="display: flex; gap: 10px;">
-  
-  <a href="mailto:seuemail@gmail.com" target="_blank" style="
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    background: #333;
-    color: white;
-    padding: 10px 16px;
-    text-decoration: none;
-    font-weight: bold;
-  ">
-    <img src="https://cdn.simpleicons.org/gmail/white" width="20"/>
-  </a>
-
-  <a href="https://linkedin.com/in/seu-user" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/white"/>
-  </a>
-
-</div>
   <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank">
     <img align="center" alt="Defati-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
