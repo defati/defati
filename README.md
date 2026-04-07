@@ -76,14 +76,13 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- CONTATO -->
 <h2> Conecte-se comigo</h2>
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank">
-    <img align="center" alt="Linkedin" height="30" width="40" style="margin:6px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank" style="margin-right:8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
-    <img align="center" alt="Gmail" height="30" width="30" style="margin:6px"
-      src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
+    <img src="https://img.shields.io/badge/Gmail-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
