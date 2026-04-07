@@ -19,7 +19,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 <h2>Tecnologias ✔</h2>
   
 <h3>Front-End ⚡</h3>  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Defati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Defati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Defati-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,7 +36,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 </div>
   <br/><br/>
 <h3>Back-End ⚡</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Defati-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Defati-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="Defati-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -53,11 +53,9 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 </div>  
   <br/><br/>
 <h2>Conecte-se comigo:</h2>
-<div>
   <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank">
     <img align="center" alt="Defati-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
-  <div></div>
   <a href="mailto:eduardo.defati@gmail.com" target="_blank">
     <img align="center" alt="Defati-Gmail" height="30" width="30" src="https://img.icons8.com/fluency/32/000000/gmail-new.png"/>
   </a>
