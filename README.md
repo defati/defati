@@ -7,15 +7,11 @@ Sou formado em Análise e Desenvolvimento de Sistemas e possuo mais de 5 anos de
 
 Tenho grande paixão por desenvolvimento de software e pela entrega de soluções que realmente fazem diferença no dia a dia dos usuários, sempre buscando qualidade, organização e melhoria contínua.
 
-Além da parte técnica, possuo facilidade no relacionamento com clientes, entendimento de requisitos e experiência em liderança de equipe, contribuindo tanto na execução quanto na tomada de decisões.
+Possuo facilidade no relacionamento com clientes, entendimento de requisitos e experiência em liderança de equipe, contribuindo tanto na execução quanto na tomada de decisões.
 </h3>
 
 <h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>
 
-<div align="left">
-  <a href="https://github.com/defati">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defati&layout=compact&langs_count=7&theme=city_lights"/>
-</div>
 
 <h2>Tecnologias que conheço ✔</h2>
   
