@@ -15,7 +15,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 
 <h3>Ah! Sou extrovertido, comunicativo, me relaciono bem com qualquer pessoa, gosto de música, uma boa conversa e praticar esportes.</h3>
 
-
+<br><br><br>
 <h2>Tecnologias ✔</h2>
   
 <h3>Front-End ⚡</h3>  
