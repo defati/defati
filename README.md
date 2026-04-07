@@ -25,9 +25,9 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 <!-- TECNOLOGIAS -->
 <h2> Tecnologias</h2>
 
-<div style="display:flex; align-items:center; flex-wrap:nowrap;">
-  
-  <span style="margin-right:10px; font-size:135%;">
+<!-- FRONT -->
+<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
+  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
     ⚡ Front-End
   </span>
 
@@ -46,31 +46,36 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="margin:0 4px;"/>
   </div>
-
 </div>
 
-<p style="display:flex; align-items:center; flex-wrap:wrap; font-size:115%; gap:8px;">
-  <span style="margin-right:8px; font-size:135%; font-weight:600; line-height:1;">
+<!-- BACK -->
+<div style="display:flex; align-items:center; flex-wrap:wrap; margin-bottom:10px;">
+  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
     ⚡ Back-End
   </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="vertical-align:middle;"/>
-</p>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
+  </div>
+</div>
 
-<p style="display:flex; align-items:center; flex-wrap:wrap; font-size:115%; gap:8px;">
-  <span style="margin-right:8px; font-size:135%; font-weight:600; line-height:1;">
+<!-- OUTRAS -->
+<div style="display:flex; align-items:center; flex-wrap:wrap;">
+  <span style="margin-right:10px; font-size:135%; font-weight:600; line-height:1;">
     ⚡ Outras
   </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" style="vertical-align:middle;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="vertical-align:middle;"/>
-</p>
+  <div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" style="margin:0 4px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="margin:0 4px;"/>
+  </div>
+</div>
 ---
 
 <!-- CONTATO -->
