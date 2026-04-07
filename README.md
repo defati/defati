@@ -1,7 +1,7 @@
 <!-- TÍTULO -->
-<h1 align="center">Olá, sou Eduardo Ferreira</h1>
+<h1 align="left">Olá, sou Eduardo Ferreira</h1>
 
-<h3 align="center"> Software Engineer | React | Typescript | Java Spring Boot</h3>
+<h3 align="left"> Software Engineer | React | Typescript | Java Spring Boot</h3>
 
 
 
@@ -22,7 +22,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 - Tenho forte habilidade em comunicação, contribuindo tanto na execução quanto na tomada de decisões.
 </p>
 
----
+
 
 <!-- TECNOLOGIAS -->
 <h2> Tecnologias</h2>
