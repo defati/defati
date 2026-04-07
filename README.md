@@ -53,7 +53,7 @@ Possuo facilidade no relacionamento com clientes, entendimento de requisitos e e
 </div>  
   <br/><br/>
 <h2>Conecte-se comigo:</h2>
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 3;">
   <a href="https://www.linkedin.com/in/eduardo-ferreira80/" target="_blank">
     <img align="center" alt="Defati-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
   </a>
