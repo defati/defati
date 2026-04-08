@@ -33,15 +33,6 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
 
   <div style="margin-left:16px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="22" style="margin:0 4px;"/>
   </div>
 </div>
 
@@ -52,9 +43,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="22" style="margin:0 4px;"/>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
   </div>
 </div>
 
@@ -65,6 +54,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
+   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin:0 4px;"/>
