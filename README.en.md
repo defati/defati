@@ -1,7 +1,7 @@
 <!-- TITLE -->
 <div align="right">
     <b>English 🇺🇸</b> | <a href="README.md">Português 🇧🇷</a>
-    <h1 align="left">Olá, sou Eduardo Ferreira</h1>
+    <h1 align="left">Hi, I'm Eduardo Ferreira</h1>
   </div>
 <h3 align="left"> ⚡ Software Engineer | React | TypeScript | Java Spring Boot</h3>
 
