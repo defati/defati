@@ -1,5 +1,5 @@
 <!-- TÍTULO -->
- <div align="right">
+ <div align="left">
     <a href="README.en.md">English 🇺🇸</a> | <b>Português 🇧🇷</b>
     <h1 align="left">Olá, sou Eduardo Ferreira</h1>
   </div>
