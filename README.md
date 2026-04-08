@@ -32,7 +32,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:12px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,mui"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,mui" height="36"/>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-   <img src="https://skillicons.dev/icons?i=java,spring,maven,php"/>
+   <img src="https://skillicons.dev/icons?i=java,spring,maven,php" height="36"/>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-   <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma"/>
+   <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma" height="36"/>
   </div>
 </div>
 
