@@ -32,7 +32,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,mui)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss)](https://skillicons.dev)
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="margin:0 4px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="22" style="margin:0 4px;"/>
