@@ -31,7 +31,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
     Front-End
   </h3>
 
-  <div style="margin-left:16px;">
+  <div style="margin-left:12px;">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,mui"/>
   </div>
 </div>
