@@ -1,6 +1,8 @@
 <!-- TÍTULO -->
-<h1 align="left">Olá, sou Eduardo Ferreira</h1>
-
+ <div align="right">
+    <a href="README.en.md">English 🇺🇸</a> | <b>Português 🇧🇷</b>
+    <h1 align="left">Olá, sou Eduardo Ferreira</h1>
+  </div>
 <h3 align="left"> ⚡ Software Engineer | React | Typescript | Java Spring Boot</h3>
 
 
