@@ -32,7 +32,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,mui"/>
   </div>
 </div>
 
@@ -43,7 +43,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
+   <img src="https://skillicons.dev/icons?i=java,spring,maven,php"/>
   </div>
 </div>
 
@@ -54,13 +54,7 @@ Sou desenvolvedor Web com experiência desde 2008, atuando na criação de siste
   </h3>
 
   <div style="margin-left:16px;">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,vite,vitest,tailwindcss,wasm"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" style="margin:0 4px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="margin:0 4px;"/>
+   <img src="https://skillicons.dev/icons?i=docker,git,mysql,postgres,figma"/>
   </div>
 </div>
 
